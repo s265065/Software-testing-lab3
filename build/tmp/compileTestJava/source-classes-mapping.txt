@@ -1,0 +1,50 @@
+ViewTheHelpPageTest.java
+ ViewTheHelpPageTest
+MyFilesPageTest.java
+ MyFilesPageTest
+FollowTheLinksOfAnUnauthorizedPersonTest.java
+ FollowTheLinksOfAnUnauthorizedPersonTest
+RemoteUploadTest.java
+ RemoteUploadTest
+GoToThePaymentsPageTest.java
+ GoToThePaymentsPageTest
+FTPPageTestTest.java
+ FTPPageTestTest
+AddFolderTest.java
+ AddFolderTest
+FolderRenameTest.java
+ FolderRenameTest
+PasswordRecoveryTest.java
+ PasswordRecoveryTest
+GettingLinkToFileTest.java
+ GettingLinkToFileTest
+RegistrationFormTest.java
+ RegistrationFormTest
+FileDownloadTest.java
+ FileDownloadTest
+RegistrationViaSocialNetvorksTest.java
+ RegistrationViaSocialNetvorksTest
+GroupFileTest.java
+ GroupFileTest
+MoveFileTest.java
+ MoveFileTest
+SwitchLanguageTest.java
+ SwitchLanguageTest
+LoyaltyPageviewTest.java
+ LoyaltyPageviewTest
+MyProffileTest.java
+ MyProffileTest
+ShareOnTwitterAndFacebookTest.java
+ ShareOnTwitterAndFacebookTest
+LoginTest.java
+ LoginTest
+RenameFileTest.java
+ RenameFileTest
+CreateDownloadLinkTest.java
+ CreateDownloadLinkTest
+UploadFileInMyFilesTest.java
+ UploadFileInMyFilesTest
+RemoveFileTest.java
+ RemoveFileTest
+UploadFileTest.java
+ UploadFileTest
